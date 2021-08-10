@@ -24,7 +24,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 </br></br>
 
- <img align="right" width="200" height="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
+ <img align="right" width="400" height="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
  
 
 <!-- ## **My Tech** 👨🏻‍🔧 -->
@@ -192,20 +192,14 @@ These are some of the technologies and tools that I work with:
     📌
   </h2> 
 	
-  <img  align="left" width="450" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
-  <img align="right" width="450" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
 </div>
 
 </br>
 </br>
 </br>
 </br>
-<!--
-<div align="center">
-  <img  align="center" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
-</div> 
-  <img align="left" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmiranda&theme=dracula" alt="Fast-win Card" />
--->
 
 <!-- TROPHY AREA -->
 <div align="center">
@@ -245,4 +239,10 @@ These are some of the technologies and tools that I work with:
 </div>
 
 
+<!--
+<div align="center">
+  <img  align="center" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
+</div> 
+  <img align="left" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmiranda&theme=dracula" alt="Fast-win Card" />
+-->
 
