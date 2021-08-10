@@ -192,8 +192,8 @@ These are some of the technologies and tools that I work with:
     📌
   </h2> 
 	
-  <img  align="left" width="475" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
-  <img align="right" width="475" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
+  <img  align="left" width="450" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
+  <img align="right" width="450" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
 </div>
 
 </br>
