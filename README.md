@@ -185,10 +185,19 @@ These are some of the technologies and tools that I work with:
 
 <!-- STATS AREA -->
  <div align="center">
-  <img  align="left" width="450" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
-  <img align="right" width="450" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
+  <h2>
+    <b> 
+	Git Status
+    </b>
+    📌
+  </h2> 
+	
+  <img  align="left" width="475" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
+  <img align="right" width="475" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovMiranda&theme=dracula&layout=compact" alt="Covid-tracker Card" />
 </div>
 
+</br>
+</br>
 </br>
 </br>
 <!--
@@ -196,12 +205,7 @@ These are some of the technologies and tools that I work with:
   <img  align="center" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=JoaovMiranda&show_icons=true&theme=dracula">
 </div> 
   <img align="left" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmiranda&theme=dracula" alt="Fast-win Card" />
- 
 -->
-
-
-</br>
-</br>
 
 <!-- TROPHY AREA -->
 <div align="center">
@@ -211,16 +215,15 @@ These are some of the technologies and tools that I work with:
     </b>
     🏆
   </h2>
+	
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=joaovmiranda&row=2&column=3&theme=dracula&margin-w=15&margin-h=15" alt="joaovmiranda" />
+    </a> 
+  </p>
 </div>
 
 </br>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joaovmiranda&row=2&column=3&theme=dracula&margin-w=15&margin-h=15" alt="joaovmiranda" />
-  </a> 
-</p>
-
 </br>
 </br>
 
@@ -231,13 +234,15 @@ These are some of the technologies and tools that I work with:
       My Bests Repos  
     </b>
     📌
-  </h2>
+  </h2>  
+	
+	
+
+  <p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=JoaovMiranda&repo=fast-win&theme=dracula" alt="Fast-win Card" />
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=JoaovMiranda&repo=covid-tracker&theme=dracula" alt="Covid-tracker Card" />
+  </p>
 </div>
 
-</br>
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=JoaovMiranda&repo=fast-win&theme=dracula" alt="Fast-win Card" />
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=JoaovMiranda&repo=covid-tracker&theme=dracula" alt="Covid-tracker Card" />
-</p>
 
